@@ -1,0 +1,68 @@
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\To-Do List.exe
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\To-Do List.deps.json
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\To-Do List.runtimeconfig.json
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\To-Do List.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\To-Do List.pdb
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Azure.Core.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Azure.Identity.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Humanizer.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\System.CodeDom.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\System.Memory.Data.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net\Coding\Projects\To-Do List\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\.Net\Coding\Projects\To-Do List\obj\Debug\net7.0\To-Do List.csproj.AssemblyReference.cache
+D:\.Net\Coding\Projects\To-Do List\obj\Debug\net7.0\To-Do List.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Coding\Projects\To-Do List\obj\Debug\net7.0\To-Do List.AssemblyInfoInputs.cache
+D:\.Net\Coding\Projects\To-Do List\obj\Debug\net7.0\To-Do List.AssemblyInfo.cs
+D:\.Net\Coding\Projects\To-Do List\obj\Debug\net7.0\To-Do List.csproj.CoreCompileInputs.cache
+D:\.Net\Coding\Projects\To-Do List\obj\Debug\net7.0\To-Do List.csproj.CopyComplete
+D:\.Net\Coding\Projects\To-Do List\obj\Debug\net7.0\To-Do List.dll
+D:\.Net\Coding\Projects\To-Do List\obj\Debug\net7.0\refint\To-Do List.dll
+D:\.Net\Coding\Projects\To-Do List\obj\Debug\net7.0\To-Do List.pdb
+D:\.Net\Coding\Projects\To-Do List\obj\Debug\net7.0\To-Do List.genruntimeconfig.cache
+D:\.Net\Coding\Projects\To-Do List\obj\Debug\net7.0\ref\To-Do List.dll
